@@ -1,6 +1,6 @@
 # Faithful Re-Implementation of GPT-2 From Scratch
 
-A clean, educational PyTorch re-implementation of the core GPT-2 architecture built step by step from low-level components.
+A clean, educational PyTorch re-implementation of the core GPT-2 from scratch, architecture built step by step from low-level components.
 
 This project recreates the main moving pieces behind GPT-2 including token embeddings, positional embeddings, masked multi-head self-attention, transformer blocks, GELU feed-forward layers, autoregressive text generation, and a minimal training loop.
 
